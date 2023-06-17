@@ -1,0 +1,21 @@
+{
+  "name": "multimediafetch",
+  "version": "1.0.1",
+  "description": "The multimediafetch module is a powerful music and video downloading tool that allows developers to ease the task of downloading content from many popular platforms. With its simple and intuitive interface, multimediafetch offers a comprehensive solution to efficiently extract and store audio and video files.",
+  "main": "index.js",
+  "dependencies": {
+    "@tobyg74/tiktok-api-dl": "^1.0.2-new",
+    "axios": "^1.4.0",
+    "path": "^0.12.7",
+    "soundcloud-downloader": "^1.0.0",
+    "tiktok-scraper-without-watermark": "^1.1.3",
+    "ytdl-core": "^4.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
