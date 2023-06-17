@@ -5,7 +5,7 @@ const pathh = require('path');
 const { TiktokDL } = require("@tobyg74/tiktok-api-dl")
 const axios = require('axios');
 const scdl = require('soundcloud-downloader').default
-const client_id = 'RQW1CRxQZH1e1H1m3SFi4MpgSrOSikS'
+const client_id = '' // your client id
 
 
 const soundclouddownloader = async (data) => {
